@@ -1,3 +1,5 @@
+# Developed by: Eman Adil Jasim - معهد التدريب النفطي / بغداد
+
 import streamlit as st
 import os
 import requests
@@ -9,7 +11,8 @@ from PyPDF2 import PdfReader
 # الإعدادات الأساسية
 # =========================
 st.set_page_config(page_title="المكتبة الذكية - معهد نفط بغداد", layout="wide")
-st.title("🏗 المكتبة الذكية لمناهج - معهد التدريب النفطي / بغداد")
+st.title("🏗   المكتبة الذكية لمناهج - معهد التدريب النفطي / بغداد - تصميم المبرمجة ايمان عادل جاسم")
+
 
 # مفاتيح البيئة
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
