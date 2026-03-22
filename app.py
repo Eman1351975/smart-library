@@ -170,7 +170,7 @@ def download_pdf_bytes(file_id):
 # الشريط الجانبي
 # =========================
 with st.sidebar:
-    st.header("📂 لوحة التحكم الإدارية")
+    st.header("📂  تصفح المكتبة")
 
     sel_stage = st.selectbox("اختر المرحلة:", list(STRUCTURE.keys()))
     sel_dept = st.selectbox("اختر القسم:", list(STRUCTURE[sel_stage].keys()))
