@@ -11,7 +11,7 @@ from PyPDF2 import PdfReader
 # الإعدادات الأساسية
 # =========================
 st.set_page_config(page_title="المكتبة الذكية - معهد نفط بغداد", layout="wide")
-st.title("🏗   المكتبة الذكية لمناهج - معهد التدريب النفطي / بغداد - تصميم المبرمجة ايمان عادل جاسم")
+st.title("🏗   المكتبة الذكية لمناهج - معهد التدريب النفطي / بغداد")
 
 import streamlit as st
 
@@ -25,7 +25,7 @@ st.markdown("""
     font-family: 'Arial', sans-serif;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 ">
-    ✨ مكتبة إيمان الذكية ✨
+    ✨ تصميم المبرمجة / ايمان عادل جاسم ✨
 </div>
 """, unsafe_allow_html=True)
 
