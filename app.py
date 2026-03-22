@@ -37,6 +37,12 @@ GOOGLE_DRIVE_API_KEY = os.environ.get("GOOGLE_DRIVE_API_KEY")
 GOOGLE_DRIVE_FOLDER_ID = os.environ.get("GOOGLE_DRIVE_FOLDER_ID", "1J5wDeX_xPMC4BYi-in5k35uSovF2ociC")
 
 # عميل Groq
+
+if not GROQ_API_KEY:
+    st.error("❌ لم يتم العثور على مفتاح Groq API")
+    st.stop()
+
+
 client = Groq(api_key=GROQ_API_KEY)
 
 # =========================
