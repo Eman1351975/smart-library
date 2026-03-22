@@ -13,6 +13,23 @@ from PyPDF2 import PdfReader
 st.set_page_config(page_title="المكتبة الذكية - معهد نفط بغداد", layout="wide")
 st.title("🏗   المكتبة الذكية لمناهج - معهد التدريب النفطي / بغداد - تصميم المبرمجة ايمان عادل جاسم")
 
+import streamlit as st
+
+st.markdown("""
+<div style="
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    color: #d4af37;
+    padding: 10px 0 20px 0;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+">
+    ✨ مكتبة إيمان الذكية ✨
+</div>
+""", unsafe_allow_html=True)
+
+
 
 # مفاتيح البيئة
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
