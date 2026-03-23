@@ -148,7 +148,7 @@ Basic functionality has been tested manually to ensure system stability and corr
 
 ## 👩‍💻 Developed By
 
-**Eman Adil Jasim**
+**Eman Adil Jasim - Oil Training Institute / Baghdad**
 
 ---
 
