@@ -56,7 +56,8 @@ This feature helps students save time and focus on important concepts.
 ## 🚀 Live Demo
 
 (If available)
-👉 https://your-render-link.onrender.com
+👉  https://smart-library-oqb1.onrender.com/
+
 
 ---
 
@@ -119,20 +120,22 @@ Instead, they are stored externally using **Google Drive**, and the application 
 
 ## 📁 Google Drive Structure
 
-The system expects a structured folder like:
+The system expects a structured Google Drive folder like:
 
-```
 Main Folder
 ├── المرحلة الأولى
 │   ├── قسم الميكانيك
-│   │   ├── اللحام
+│   │   ├── تقنيات اللحام الغازي والكهربائي
 │   │   │   ├── كتاب1.pdf
 │   │   │   ├── كتاب2.pdf
-│   ├── قسم النغط
-│   │   ├── الانتاج
+│   │   ├── التشغيل والسيطرة
 │   │   │   ├── كتاب1.pdf
 │   │   │   ├── كتاب2.pdf
+│   │   ├── الانتاج والقياسات الحقلية
+│   │       ├── كتاب1.pdf
+│   │       ├── كتاب2.pdf
 ├── المرحلة الثانية
+
 ```
 
 ---
