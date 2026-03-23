@@ -50,7 +50,6 @@ This feature helps students save time and focus on important concepts.
 
 ### 🤖 AI Summarization
 ![AI](https://github.com/Eman1351975/smart-library/raw/main/ai.png)
-![Main](images/main.png)
 
 ---
 
