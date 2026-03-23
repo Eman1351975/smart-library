@@ -122,6 +122,7 @@ Instead, they are stored externally using **Google Drive**, and the application 
 The system expects a structured Google Drive folder like:
 
 Main Folder
+
 ├── المرحلة الأولى
 │ ├── قسم الميكانيك
 │ │ ├── تقنيات اللحام الغازي والكهربائي
