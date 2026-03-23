@@ -45,15 +45,12 @@ This feature helps students save time and focus on important concepts.
 
 ### 🏠 Main Interface
 
-![Main](images/main.png)
+![Main](https://github.com/Eman1351975/smart-library/raw/main/main.png)
 
-### 📚 Library Navigation
-
-![Library](images/library.png)
 
 ### 🤖 AI Summarization
-
-![AI](images/ai.png)
+![AI](https://github.com/Eman1351975/smart-library/raw/main/ai.png)
+![Main](images/main.png)
 
 ---
 
