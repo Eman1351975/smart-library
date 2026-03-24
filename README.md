@@ -15,6 +15,11 @@ It also integrates **AI-powered features** to enhance the learning experience.
 
 ---
 
+## 🔮 Future Work
+
+This project is planned to be integrated with the official website of the Institute of Oil Training – Baghdad to make it accessible for all students.
+
+---
 ## 🎯 Features
 
 * 📚 Structured navigation of books
