@@ -117,7 +117,7 @@ The project depends on external services and requires the following environment 
 
 ## ☁️ Storage Note
 
-Books are **not stored داخل المشروع** بسبب حجمها الكبير.
+Books are **not stored inside the project due to their large size.** .
 
 Instead, they are stored externally using **Google Drive**, and the application dynamically loads them during runtime.
 
