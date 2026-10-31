@@ -269,7 +269,7 @@ if available_books:
                                     "content": f"حلل المنهج التالي:\n{extracted_text}\n\nالطلب: {user_req}"
                                 }
                             ],
-                            model="llama-3.3-70b-versatile",
+                            model="openai/gpt-oss-120b",
                         )
 
                         ans = res.choices[0].message.content
